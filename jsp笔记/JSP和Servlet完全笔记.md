@@ -3,7 +3,7 @@
 >>[《【SiKi学院JavaEE视频教程】JavaWeb第一季基础》](https://www.bilibili.com/video/av37398251)
 >>[《【SiKi学院JavaEE视频教程】JavaWeb第二季进阶》](https://www.bilibili.com/video/av37398729)
 >>
->>或 [Siki学院官网](https://www.sikiedu.cn) 
+>>或 [Siki学院官网](http://www.sikiedu.com) 
 
 >#### 前言
 >>经个人了解，jsp已近退休之势，各位小伙伴不必深究，浅尝辄止即可。
