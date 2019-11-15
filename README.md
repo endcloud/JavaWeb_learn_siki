@@ -1,4 +1,5 @@
 # JavaWeb_learn_siki
-Some notes and code for JavaWeb-learning.
 
-## enex是印象笔记原生导出格式，有需要自行下载
+## 完整笔记使用Markdown创建，内含流程图代码，建议下载后使用专业md编辑器查看。
+
+## enex是印象笔记原生导出格式，此文件是第一季的初版笔记，记录不够完善，仅作参考之用。
